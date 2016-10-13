@@ -1,0 +1,15 @@
+{
+    "name": "root/helloworld",
+    "authors": [
+        {
+            "name": "mingwang",
+            "email": "809527891@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ming\\HelloWorld\\": "src/"
+        }
+    }
+}
